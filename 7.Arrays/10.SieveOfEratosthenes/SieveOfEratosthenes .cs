@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace _10.SieveOfEratosthenes
+namespace _15.SieveOfEratosthenes
 {
     class Program
     {

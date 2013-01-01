@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\6.MaxSumOfK\bin\Debug\6.MaxSumOfK.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\6.MaxSumOfK\bin\Debug\6.MaxSumOfK.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\6.MaxSumOfK\obj\x86\Debug\6.MaxSumOfK.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\6.MaxSumOfK\obj\x86\Debug\6.MaxSumOfK.pdb

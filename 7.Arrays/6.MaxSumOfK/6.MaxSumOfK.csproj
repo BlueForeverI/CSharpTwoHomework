@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{80DA7E58-0E50-4179-8E77-D2046F17B3EA}</ProjectGuid>
+    <ProjectGuid>{74951AF6-B113-4ACA-98B4-0AD4FC4E19EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_9.LetterIndex</RootNamespace>
-    <AssemblyName>9.LetterIndex</AssemblyName>
+    <RootNamespace>_6.MaxSumOfK</RootNamespace>
+    <AssemblyName>6.MaxSumOfK</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LetterIndex.cs" />
+    <Compile Include="MaxSumOfK.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

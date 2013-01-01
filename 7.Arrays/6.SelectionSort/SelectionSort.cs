@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace _6.SelectionSort
+namespace _7.SelectionSort
 {
     class SelectionSort
     {

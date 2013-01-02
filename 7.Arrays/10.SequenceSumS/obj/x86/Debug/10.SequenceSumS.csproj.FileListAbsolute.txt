@@ -1,0 +1,5 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\10.SequenceSumS\bin\Debug\10.SequenceSumS.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\10.SequenceSumS\bin\Debug\10.SequenceSumS.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\10.SequenceSumS\obj\x86\Debug\10.SequenceSumS.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\10.SequenceSumS\obj\x86\Debug\10.SequenceSumS.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\10.SequenceSumS\obj\x86\Debug\10.SequenceSumS.csprojResolveAssemblyReference.cache

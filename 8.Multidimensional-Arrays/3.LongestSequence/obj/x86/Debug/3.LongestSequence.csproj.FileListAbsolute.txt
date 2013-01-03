@@ -1,0 +1,4 @@
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\3.LongestSequence\bin\Debug\3.LongestSequence.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\3.LongestSequence\bin\Debug\3.LongestSequence.pdb
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\3.LongestSequence\obj\x86\Debug\3.LongestSequence.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\3.LongestSequence\obj\x86\Debug\3.LongestSequence.pdb

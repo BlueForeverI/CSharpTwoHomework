@@ -1,0 +1,4 @@
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\1.FillMatrixes\bin\Debug\1.FillMatrixes.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\1.FillMatrixes\bin\Debug\1.FillMatrixes.pdb
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\1.FillMatrixes\obj\x86\Debug\1.FillMatrixes.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\8.Multidimensional-Arrays\1.FillMatrixes\obj\x86\Debug\1.FillMatrixes.pdb

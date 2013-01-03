@@ -1,0 +1,5 @@
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\18.RemoveToSort\bin\Debug\18.RemoveToSort.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\18.RemoveToSort\bin\Debug\18.RemoveToSort.pdb
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\18.RemoveToSort\obj\x86\Debug\18.RemoveToSort.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\18.RemoveToSort\obj\x86\Debug\18.RemoveToSort.pdb
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\7.Arrays\18.RemoveToSort\obj\x86\Debug\18.RemoveToSort.csprojResolveAssemblyReference.cache

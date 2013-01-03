@@ -3,47 +3,48 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="Console`0" priority="16" />
-      <Item value="int" priority="53" />
-      <Item value="List" priority="5" />
-      <Item value="new" priority="13" />
-      <Item value="List&lt;int&gt;" priority="7" />
-      <Item value="for" priority="7" />
-      <Item value="i" priority="34" />
-      <Item value="N" priority="1" />
-      <Item value="numbers" priority="2" />
-      <Item value="Math`0" priority="1" />
-      <Item value="maxCombinations" priority="1" />
+      <Item value="Console`0" priority="21" />
+      <Item value="int" priority="104" />
+      <Item value="List" priority="38" />
+      <Item value="new" priority="34" />
+      <Item value="List&lt;int&gt;" priority="17" />
+      <Item value="for" priority="24" />
+      <Item value="i" priority="61" />
+      <Item value="N" priority="4" />
+      <Item value="numbers" priority="12" />
+      <Item value="Math`0" priority="4" />
+      <Item value="maxCombinations" priority="2" />
       <Item value="StringBuilder`0" priority="0" />
-      <Item value="string" priority="7" />
-      <Item value="Convert`0" priority="0" />
-      <Item value="binaryString" priority="3" />
-      <Item value="if" priority="18" />
+      <Item value="string" priority="19" />
+      <Item value="Convert`0" priority="3" />
+      <Item value="binaryString" priority="11" />
+      <Item value="if" priority="27" />
       <Item value="currentSequence" priority="2" />
       <Item value="S" priority="2" />
       <Item value="sequence" priority="4" />
-      <Item value="cw" priority="5" />
-      <Item value="else" priority="7" />
-      <Item value="result" priority="3" />
-      <Item value="break" priority="2" />
+      <Item value="cw" priority="10" />
+      <Item value="else" priority="8" />
+      <Item value="result" priority="6" />
+      <Item value="break" priority="4" />
       <Item value="size" priority="4" />
-      <Item value="array" priority="22" />
-      <Item value="Array`0" priority="0" />
+      <Item value="array" priority="27" />
+      <Item value="Array`0" priority="1" />
       <Item value="BinarySearch`0" priority="0" />
       <Item value="element" priority="6" />
       <Item value="Last`1" priority="0" />
       <Item value="max" priority="2" />
       <Item value="min" priority="3" />
-      <Item value="return" priority="7" />
+      <Item value="return" priority="11" />
       <Item value="BinarySearchElement`0" priority="1" />
       <Item value="mid" priority="2" />
       <Item value="index" priority="0" />
-      <Item value="sorted" priority="4" />
+      <Item value="sorted" priority="9" />
       <Item value="Length" priority="8" />
       <Item value="middle" priority="4" />
       <Item value="left" priority="25" />
@@ -60,81 +61,136 @@
       <Item value="r_holder" priority="0" />
       <Item value="QuickSortArray`0" priority="3" />
       <Item value="subset" priority="3" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="IsSorted`1" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="static" priority="3" />
+      <Item value="ref" priority="1" />
+      <Item value="a" priority="2" />
+      <Item value="b" priority="2" />
+      <Item value="n" priority="7" />
+      <Item value="List&lt;List&lt;int&gt;&gt;" priority="4" />
+      <Item value="factorial" priority="1" />
+      <Item value="k" priority="8" />
+      <Item value="set" priority="3" />
+      <Item value="other" priority="0" />
+      <Item value="tmp" priority="0" />
+      <Item value="perms" priority="1" />
+      <Item value="var" priority="7" />
+      <Item value="FindPermutations`0" priority="0" />
+      <Item value="foreach" priority="5" />
+      <Item value="permutation" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="Factorial`0" priority="2" />
+      <Item value="count" priority="0" />
+      <Item value="variation" priority="9" />
+      <Item value="maxCount" priority="1" />
+      <Item value="variations" priority="4" />
+      <Item value="c" priority="1" />
+      <Item value="K" priority="3" />
+      <Item value="FindVariations`0" priority="0" />
+      <Item value="FindCombinations`0" priority="0" />
+      <Item value="FindIndexPermutations`0" priority="1" />
+      <Item value="in" priority="0" />
+      <Item value="permutations" priority="0" />
+      <Item value="combination" priority="3" />
+      <Item value="variatoin" priority="0" />
+      <Item value="input" priority="4" />
+      <Item value="depth" priority="1" />
+      <Item value="output" priority="4" />
+      <Item value="brute`0" priority="0" />
+      <Item value="out" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Console">
-      <Item value="Write`0" priority="7" />
-      <Item value="ReadLine`0" priority="7" />
+      <Item value="Write`0" priority="9" />
+      <Item value="ReadLine`0" priority="9" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Int32">
-      <Item value="Parse`0" priority="7" />
+      <Item value="Parse`0" priority="9" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
-      <Item value="Add`0" priority="2" />
+      <Item value="Add`0" priority="14" />
       <Item value="Sum`1" priority="2" />
-      <Item value="Count" priority="2" />
+      <Item value="Count" priority="11" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="IsSorted`1" priority="0" />
+      <Item value="Take`1" priority="0" />
+      <Item value="AsParallel`0" priority="0" />
+      <Item value="RemoveAt`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Math">
-      <Item value="Pow`0" priority="1" />
+      <Item value="Pow`0" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Convert">
-      <Item value="ToString`0" priority="1" />
+      <Item value="ToString`0" priority="5" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
-      <Item value="Reverse`1" priority="0" />
-      <Item value="Length" priority="1" />
+      <Item value="Reverse`1" priority="3" />
+      <Item value="Length" priority="4" />
       <Item value="Remove`0" priority="0" />
+      <Item value="Count`1" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
-      <Item value="ToArray`1" priority="1" />
+      <Item value="ToArray`1" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
-      <Item value="Join`0" priority="2" />
+      <Item value="Join`0" priority="9" />
+      <Item value="Format`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Array">
       <Item value="Sort`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <RecentFiles>
     <RecentFiles>
       <File id="FFBE67A7-0D66-46B9-BC48-52D433134882/f:BinarySearch.cs" caret="218" fromTop="11" />
       <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="123" fromTop="7" />
-      <File id="794DA791-6CB9-403B-900B-32FC4AC20207/f:QuickSort.cs" caret="214" fromTop="12" />
       <File id="019F9B93-1E1D-4AEC-A43E-B5919E82F562/f:MaximalSequenceSum.cs" caret="693" fromTop="24" />
       <File id="7F5052EA-1356-450C-91E2-82D1382EB8B8/f:SequenceSumS.cs" caret="1198" fromTop="31" />
-      <File id="1158CF29-3CFD-42F0-8C56-443218006D0F/f:SubsetSumS.cs" caret="740" fromTop="25" />
-      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="1621" fromTop="28" />
+      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="297" fromTop="13" />
+      <File id="1158CF29-3CFD-42F0-8C56-443218006D0F/f:SubsetSumS.cs" caret="0" fromTop="0" />
+      <File id="794DA791-6CB9-403B-900B-32FC4AC20207/f:QuickSort.cs" caret="212" fromTop="8" />
+      <File id="622D3DAE-9E39-487F-8F30-0E50A59180DD/f:RemoveToSort.cs" caret="1978" fromTop="32" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="659" fromTop="26" />
+      <File id="E1739AC5-DB20-4D34-A240-F9B9B5BBD765/f:Combinations.cs" caret="162" fromTop="0" />
+      <File id="78384EF0-C90D-473C-877F-AB6C23D7E650/f:Permutations.cs" caret="162" fromTop="8" />
     </RecentFiles>
     <RecentEdits>
-      <File id="7F5052EA-1356-450C-91E2-82D1382EB8B8/f:SequenceSumS.cs" caret="1255" fromTop="28" />
-      <File id="7F5052EA-1356-450C-91E2-82D1382EB8B8/f:SequenceSumS.cs" caret="774" fromTop="17" />
-      <File id="7F5052EA-1356-450C-91E2-82D1382EB8B8/f:SequenceSumS.cs" caret="1198" fromTop="28" />
-      <File id="FFBE67A7-0D66-46B9-BC48-52D433134882/f:BinarySearch.cs" caret="0" fromTop="0" />
-      <File id="FFBE67A7-0D66-46B9-BC48-52D433134882/f:BinarySearch.cs" caret="1117" fromTop="31" />
-      <File id="FFBE67A7-0D66-46B9-BC48-52D433134882/f:BinarySearch.cs" caret="1444" fromTop="35" />
-      <File id="FFBE67A7-0D66-46B9-BC48-52D433134882/f:BinarySearch.cs" caret="839" fromTop="26" />
-      <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="125" fromTop="11" />
-      <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="2158" fromTop="19" />
-      <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="13" fromTop="0" />
-      <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="500" fromTop="18" />
-      <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="1295" fromTop="24" />
-      <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="2135" fromTop="16" />
-      <File id="1584D92B-87F2-4D30-8D5F-261B25F111C9/f:MergeSort.cs" caret="1527" fromTop="27" />
-      <File id="794DA791-6CB9-403B-900B-32FC4AC20207/f:QuickSort.cs" caret="0" fromTop="0" />
-      <File id="794DA791-6CB9-403B-900B-32FC4AC20207/f:QuickSort.cs" caret="214" fromTop="11" />
-      <File id="794DA791-6CB9-403B-900B-32FC4AC20207/f:QuickSort.cs" caret="598" fromTop="22" />
-      <File id="794DA791-6CB9-403B-900B-32FC4AC20207/f:QuickSort.cs" caret="717" fromTop="4" />
-      <File id="794DA791-6CB9-403B-900B-32FC4AC20207/f:QuickSort.cs" caret="1613" fromTop="31" />
-      <File id="1158CF29-3CFD-42F0-8C56-443218006D0F/f:SubsetSumS.cs" caret="116" fromTop="5" />
-      <File id="1158CF29-3CFD-42F0-8C56-443218006D0F/f:SubsetSumS.cs" caret="202" fromTop="11" />
-      <File id="1158CF29-3CFD-42F0-8C56-443218006D0F/f:SubsetSumS.cs" caret="721" fromTop="25" />
-      <File id="1158CF29-3CFD-42F0-8C56-443218006D0F/f:SubsetSumS.cs" caret="1607" fromTop="35" />
-      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="0" fromTop="0" />
-      <File id="1158CF29-3CFD-42F0-8C56-443218006D0F/f:SubsetSumS.cs" caret="1484" fromTop="18" />
-      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="1726" fromTop="35" />
-      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="710" fromTop="19" />
-      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="313" fromTop="13" />
-      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="487" fromTop="19" />
-      <File id="42EC3204-99E5-411A-BD9A-F52326147ED1/f:SubsetKSumS.cs" caret="1344" fromTop="17" />
+      <File id="622D3DAE-9E39-487F-8F30-0E50A59180DD/f:RemoveToSort.cs" caret="1978" fromTop="20" />
+      <File id="78384EF0-C90D-473C-877F-AB6C23D7E650/f:Permutations.cs" caret="1495" fromTop="33" />
+      <File id="78384EF0-C90D-473C-877F-AB6C23D7E650/f:Permutations.cs" caret="1094" fromTop="33" />
+      <File id="78384EF0-C90D-473C-877F-AB6C23D7E650/f:Permutations.cs" caret="1466" fromTop="29" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="0" fromTop="0" />
+      <File id="78384EF0-C90D-473C-877F-AB6C23D7E650/f:Permutations.cs" caret="169" fromTop="9" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="1163" fromTop="15" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="21" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="23" />
+      <File id="E1739AC5-DB20-4D34-A240-F9B9B5BBD765/f:Combinations.cs" caret="1664" fromTop="33" />
+      <File id="E1739AC5-DB20-4D34-A240-F9B9B5BBD765/f:Combinations.cs" caret="201" fromTop="9" />
+      <File id="E1739AC5-DB20-4D34-A240-F9B9B5BBD765/f:Combinations.cs" caret="468" fromTop="15" />
+      <File id="E1739AC5-DB20-4D34-A240-F9B9B5BBD765/f:Combinations.cs" caret="776" fromTop="10" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="9" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="33" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="10" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="15" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="6" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="27" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="17" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="18" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="5" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="20" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="148" fromTop="17" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="602" fromTop="16" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="777" fromTop="24" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="1048" fromTop="25" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="158" fromTop="9" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="546" fromTop="13" />
+      <File id="0485C420-0DD1-4D6B-B22E-2AAB59DCCF2D/f:Variations.cs" caret="659" fromTop="17" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -144,8 +200,7 @@
     <Providers />
   </UnitTestRunner>
   <UnitTestRunnerNUnit>
-    <NUnitInstallDir IsNull="False">
-    </NUnitInstallDir>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6.1\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
 </Configuration>

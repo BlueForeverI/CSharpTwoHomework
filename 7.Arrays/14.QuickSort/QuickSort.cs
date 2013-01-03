@@ -9,7 +9,6 @@ namespace _14.QuickSort
     {
         static void Main(string[] args)
         {
-
             Console.Write("Enter array size: ");
             int size = int.Parse(Console.ReadLine());
             int[] array = new int[size];

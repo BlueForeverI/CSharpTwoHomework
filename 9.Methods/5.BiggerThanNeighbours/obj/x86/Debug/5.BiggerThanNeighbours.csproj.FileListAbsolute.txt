@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\5.BiggerThanNeighbours\bin\Debug\5.BiggerThanNeighbours.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\5.BiggerThanNeighbours\bin\Debug\5.BiggerThanNeighbours.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\5.BiggerThanNeighbours\obj\x86\Debug\5.BiggerThanNeighbours.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\5.BiggerThanNeighbours\obj\x86\Debug\5.BiggerThanNeighbours.pdb

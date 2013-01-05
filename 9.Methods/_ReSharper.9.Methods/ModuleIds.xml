@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="CE26E025-5DC4-458A-BBC1-ECAF771DD21A" ModuleId="1.HelloUser" />
+  <Module PersistentId="EF44BB70-61E6-45C1-AB17-65DD3112BCF5" ModuleId="2.GetMaxMethod" />
+  <Module PersistentId="BB14D093-F85D-411B-B960-7149889C9C02" ModuleId="3.LastDigitAsWord" />
+  <Module PersistentId="6E5107BE-2E07-4354-9951-5EB2DA4CC42D" ModuleId="4.CountAppearances" />
+  <Module PersistentId="CC5B49AA-A49B-4467-9696-D3FBC9111172" ModuleId="5.BiggerThanNeighbours" />
+  <Module PersistentId="076A58CF-380C-4EDA-9D19-E559DB9E197E" ModuleId="6.FirstBigger" />
+  <Module PersistentId="FED49731-FC5B-448D-BB28-07E0A04346F4" ModuleId="7.ReverseNumberDigits" />
+  <Module PersistentId="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2" ModuleId="8.AddNumbersAsArrays" />
+  <Module PersistentId="37502586-6801-4B87-9477-FC85B120F405" ModuleId="9.FindMaxInRange" />
+</Modules>

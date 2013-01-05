@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\1.HelloUser\bin\Debug\1.HelloUser.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\1.HelloUser\bin\Debug\1.HelloUser.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\1.HelloUser\obj\x86\Debug\1.HelloUser.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\1.HelloUser\obj\x86\Debug\1.HelloUser.pdb

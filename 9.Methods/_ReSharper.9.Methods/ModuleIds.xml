@@ -8,4 +8,10 @@
   <Module PersistentId="FED49731-FC5B-448D-BB28-07E0A04346F4" ModuleId="7.ReverseNumberDigits" />
   <Module PersistentId="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2" ModuleId="8.AddNumbersAsArrays" />
   <Module PersistentId="37502586-6801-4B87-9477-FC85B120F405" ModuleId="9.FindMaxInRange" />
+  <Module PersistentId="69562AB1-EDC5-492B-8D8B-E8CEB84EDF71" ModuleId="10.Factorial" />
+  <Module PersistentId="8893333F-79D4-4077-AA48-F22088A0F43F" ModuleId="11.AddPolinomials" />
+  <Module PersistentId="6C22C32C-1840-4466-9458-A82D3B21F2E7" ModuleId="12.SubMultyPolynomials" />
+  <Module PersistentId="63B2812C-FB5D-4CCD-BB10-F41E9D0230CE" ModuleId="13.SolveTasks" />
+  <Module PersistentId="C8E94CDD-C90E-45BD-807B-051E0EF3DF79" ModuleId="14.IntegerSetMethods" />
+  <Module PersistentId="94AF5172-D19E-44B8-935E-26634649AC69" ModuleId="15.GenericSetMethods" />
 </Modules>

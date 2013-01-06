@@ -57,7 +57,7 @@ namespace _8.AddNumbersAsArrays
 
             for (int i = 0; i < size1; i ++)
             {
-                Console.Write("num1[{0}] = ");
+                Console.Write("num1[{0}] = ", i);
                 num1[i] = int.Parse(Console.ReadLine());
             }
 
@@ -67,7 +67,7 @@ namespace _8.AddNumbersAsArrays
 
             for (int i = 0; i < size2; i++)
             {
-                Console.Write("num2[{0}] = ");
+                Console.Write("num2[{0}] = ", i);
                 num2[i] = int.Parse(Console.ReadLine());
             }
 

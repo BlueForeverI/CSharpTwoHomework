@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\11.AddPolinomials\bin\Debug\11.AddPolinomials.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\11.AddPolinomials\bin\Debug\11.AddPolinomials.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\11.AddPolinomials\obj\x86\Debug\11.AddPolinomials.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\11.AddPolinomials\obj\x86\Debug\11.AddPolinomials.pdb

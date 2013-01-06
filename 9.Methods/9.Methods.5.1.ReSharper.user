@@ -9,38 +9,38 @@
   </SettingsComponent>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="static" priority="9" />
+      <Item value="static" priority="24" />
       <Item value="void" priority="0" />
-      <Item value="Console`0" priority="19" />
-      <Item value="string" priority="5" />
-      <Item value="cw" priority="9" />
+      <Item value="Console`0" priority="34" />
+      <Item value="string" priority="9" />
+      <Item value="cw" priority="34" />
       <Item value="name" priority="0" />
       <Item value="SayHello`0" priority="0" />
-      <Item value="int" priority="65" />
-      <Item value="return" priority="20" />
-      <Item value="a" priority="1" />
-      <Item value="b" priority="1" />
+      <Item value="int" priority="108" />
+      <Item value="return" priority="37" />
+      <Item value="a" priority="4" />
+      <Item value="b" priority="3" />
       <Item value="GetMax`0" priority="3" />
       <Item value="n1" priority="0" />
       <Item value="n2" priority="0" />
       <Item value="char" priority="0" />
-      <Item value="number" priority="7" />
-      <Item value="switch" priority="0" />
-      <Item value="case" priority="8" />
+      <Item value="number" priority="8" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="11" />
       <Item value="default" priority="0" />
       <Item value="GetLastDigit`0" priority="0" />
-      <Item value="foreach" priority="1" />
-      <Item value="if" priority="10" />
-      <Item value="i" priority="38" />
+      <Item value="foreach" priority="5" />
+      <Item value="if" priority="17" />
+      <Item value="i" priority="57" />
       <Item value="count" priority="1" />
-      <Item value="new" priority="6" />
-      <Item value="size" priority="1" />
-      <Item value="for" priority="6" />
+      <Item value="new" priority="12" />
+      <Item value="size" priority="3" />
+      <Item value="for" priority="9" />
       <Item value="array" priority="22" />
       <Item value="GetAppearanceCount`0" priority="0" />
       <Item value="bool" priority="1" />
       <Item value="index" priority="8" />
-      <Item value="Length" priority="12" />
+      <Item value="Length" priority="18" />
       <Item value="false" priority="1" />
       <Item value="true" priority="1" />
       <Item value="IsBiggerThanNeighbours`0" priority="0" />
@@ -48,73 +48,119 @@
       <Item value="_5.BiggerThanNeighbours" priority="0" />
       <Item value="BiggerThanNeighbours`0" priority="0" />
       <Item value="GetFirstBiggerIndex`0" priority="0" />
-      <Item value="n" priority="0" />
-      <Item value="ReverseDigits`0" priority="0" />
+      <Item value="n" priority="4" />
+      <Item value="ReverseDigits`0" priority="1" />
       <Item value="num1" priority="12" />
       <Item value="num2" priority="8" />
-      <Item value="Reverse`1" priority="3" />
-      <Item value="List" priority="3" />
+      <Item value="Reverse`1" priority="5" />
+      <Item value="List" priority="5" />
       <Item value="maxLength" priority="5" />
-      <Item value="sum" priority="6" />
-      <Item value="result" priority="17" />
-      <Item value="else" priority="2" />
+      <Item value="sum" priority="8" />
+      <Item value="result" priority="20" />
+      <Item value="else" priority="3" />
       <Item value="AddNumbers`0" priority="0" />
       <Item value="ArgIterator`0" priority="0" />
       <Item value="Last`1" priority="0" />
       <Item value="null" priority="0" />
       <Item value="Array`0" priority="0" />
-      <Item value="var" priority="1" />
+      <Item value="var" priority="2" />
       <Item value="newResult" priority="1" />
       <Item value="size1" priority="1" />
       <Item value="FindMaxInRange`0" priority="0" />
       <Item value="ParamArrayAttribute`0" priority="0" />
       <Item value="max" priority="2" />
       <Item value="ToList`1" priority="0" />
-      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="List&lt;int&gt;" priority="1" />
       <Item value="sorted" priority="4" />
       <Item value="SortArray`0" priority="2" />
       <Item value="numbers" priority="8" />
       <Item value="maxIndex" priority="1" />
       <Item value="temp" priority="0" />
       <Item value="ascending" priority="0" />
+      <Item value="CalculateFactorial`0" priority="1" />
+      <Item value="ToArray`1" priority="0" />
+      <Item value="coefs1" priority="4" />
+      <Item value="poly1" priority="11" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="AddPolinoms`0" priority="0" />
+      <Item value="poly2" priority="3" />
+      <Item value="coefs2" priority="1" />
+      <Item value="Math`0" priority="0" />
+      <Item value="SubtractPolynomials`0" priority="0" />
+      <Item value="long" priority="2" />
+      <Item value="while" priority="0" />
+      <Item value="res" priority="1" />
+      <Item value="length" priority="1" />
+      <Item value="MultiplyPolinomials`0" priority="0" />
+      <Item value="double" priority="4" />
+      <Item value="sequence" priority="3" />
+      <Item value="Sum`1" priority="3" />
+      <Item value="choice" priority="1" />
+      <Item value="break" priority="6" />
+      <Item value="from" priority="0" />
+      <Item value="CalculateAverage`0" priority="0" />
+      <Item value="SolveEquation`0" priority="0" />
+      <Item value="IntPtr`0" priority="0" />
+      <Item value="nums" priority="9" />
+      <Item value="Min`2" priority="1" />
+      <Item value="params" priority="8" />
+      <Item value="Max`2" priority="1" />
+      <Item value="Average`1" priority="4" />
+      <Item value="product" priority="3" />
+      <Item value="num" priority="0" />
+      <Item value="Minimum`0" priority="1" />
+      <Item value="Maximum`0" priority="0" />
+      <Item value="Average`0" priority="0" />
+      <Item value="Sum`0" priority="1" />
+      <Item value="Product`0" priority="0" />
+      <Item value="T`0" priority="11" />
+      <Item value="where" priority="2" />
+      <Item value="object" priority="0" />
+      <Item value="Maximum`1" priority="0" />
+      <Item value="Product`1" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Console">
-      <Item value="Write`0" priority="8" />
-      <Item value="ReadLine`0" priority="9" />
+      <Item value="Write`0" priority="15" />
+      <Item value="ReadLine`0" priority="17" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Int32">
-      <Item value="Parse`0" priority="7" />
+      <Item value="Parse`0" priority="14" />
       <Item value="MinValue" priority="0" />
+      <Item value="TryParse`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Int32">
-      <Item value="ToString`0" priority="1" />
+      <Item value="ToString`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
       <Item value="Last`1" priority="0" />
-      <Item value="Reverse`1" priority="0" />
+      <Item value="Reverse`1" priority="1" />
       <Item value="ToArray`1" priority="0" />
+      <Item value="Split`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@_5.BiggerThanNeighbours.BiggerThanNeighbours">
       <Item value="IsBiggerThanNeighbours`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
-      <Item value="ToArray`1" priority="4" />
+      <Item value="ToArray`1" priority="7" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
-      <Item value="Join`0" priority="1" />
+      <Item value="Join`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
       <Item value="Last`1" priority="0" />
       <Item value="Remove`0" priority="1" />
       <Item value="RemoveAt`0" priority="0" />
       <Item value="Count" priority="1" />
-      <Item value="ToArray`0" priority="3" />
-      <Item value="Add`0" priority="1" />
+      <Item value="ToArray`0" priority="4" />
+      <Item value="Add`0" priority="2" />
       <Item value="IndexOf`0" priority="0" />
       <Item value="Reverse`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Array">
       <Item value="Copy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
   <RecentFiles>
@@ -125,41 +171,47 @@
       <File id="6E5107BE-2E07-4354-9951-5EB2DA4CC42D/f:CountAppearances.cs" caret="525" fromTop="12" />
       <File id="CC5B49AA-A49B-4467-9696-D3FBC9111172/f:BiggerThanNeighbours.cs" caret="614" fromTop="15" />
       <File id="FED49731-FC5B-448D-BB28-07E0A04346F4/f:ReverseNumberDigits.cs" caret="534" fromTop="19" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="2172" fromTop="22" />
       <File id="076A58CF-380C-4EDA-9D19-E559DB9E197E/f:FirstBigger.cs" caret="580" fromTop="24" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="1428" fromTop="8" />
+      <File id="69562AB1-EDC5-492B-8D8B-E8CEB84EDF71/f:Factorial.cs" caret="591" fromTop="24" />
+      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="1596" fromTop="9" />
+      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="1858" fromTop="48" />
+      <File id="8893333F-79D4-4077-AA48-F22088A0F43F/f:AddPolinomials.cs" caret="1449" fromTop="3" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="2129" fromTop="17" />
+      <File id="63B2812C-FB5D-4CCD-BB10-F41E9D0230CE/f:SolveTasks.cs" caret="2519" fromTop="20" />
+      <File id="C8E94CDD-C90E-45BD-807B-051E0EF3DF79/f:IntegerSetMethods.cs" caret="1313" fromTop="52" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="1067" fromTop="20" />
     </RecentFiles>
     <RecentEdits>
-      <File id="6E5107BE-2E07-4354-9951-5EB2DA4CC42D/f:CountAppearances.cs" caret="1072" fromTop="35" />
-      <File id="CC5B49AA-A49B-4467-9696-D3FBC9111172/f:BiggerThanNeighbours.cs" caret="0" fromTop="0" />
-      <File id="CC5B49AA-A49B-4467-9696-D3FBC9111172/f:BiggerThanNeighbours.cs" caret="533" fromTop="18" />
-      <File id="CC5B49AA-A49B-4467-9696-D3FBC9111172/f:BiggerThanNeighbours.cs" caret="790" fromTop="23" />
-      <File id="CC5B49AA-A49B-4467-9696-D3FBC9111172/f:BiggerThanNeighbours.cs" caret="1675" fromTop="35" />
-      <File id="CC5B49AA-A49B-4467-9696-D3FBC9111172/f:BiggerThanNeighbours.cs" caret="1210" fromTop="20" />
-      <File id="076A58CF-380C-4EDA-9D19-E559DB9E197E/f:FirstBigger.cs" caret="120" fromTop="4" />
-      <File id="CC5B49AA-A49B-4467-9696-D3FBC9111172/f:BiggerThanNeighbours.cs" caret="141" fromTop="4" />
-      <File id="076A58CF-380C-4EDA-9D19-E559DB9E197E/f:FirstBigger.cs" caret="501" fromTop="20" />
-      <File id="076A58CF-380C-4EDA-9D19-E559DB9E197E/f:FirstBigger.cs" caret="568" fromTop="25" />
-      <File id="076A58CF-380C-4EDA-9D19-E559DB9E197E/f:FirstBigger.cs" caret="1050" fromTop="35" />
-      <File id="FED49731-FC5B-448D-BB28-07E0A04346F4/f:ReverseNumberDigits.cs" caret="0" fromTop="0" />
-      <File id="FED49731-FC5B-448D-BB28-07E0A04346F4/f:ReverseNumberDigits.cs" caret="284" fromTop="11" />
-      <File id="FED49731-FC5B-448D-BB28-07E0A04346F4/f:ReverseNumberDigits.cs" caret="534" fromTop="19" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="0" fromTop="0" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="1270" fromTop="12" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="1373" fromTop="14" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="839" fromTop="28" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="1107" fromTop="11" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="434" fromTop="13" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="231" fromTop="10" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="2119" fromTop="35" />
-      <File id="3ACC5E0C-A543-44F8-B3E2-9E5ED60DD8F2/f:AddNumbersAsArrays.cs" caret="2171" fromTop="22" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="0" fromTop="0" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="175" fromTop="9" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="832" fromTop="23" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="1115" fromTop="20" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="1237" fromTop="16" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="558" fromTop="17" />
-      <File id="37502586-6801-4B87-9477-FC85B120F405/f:FindMaxInRange.cs" caret="1843" fromTop="18" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="992" fromTop="11" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="409" fromTop="19" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="409" fromTop="9" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="1090" fromTop="11" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="409" fromTop="11" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="409" fromTop="14" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="409" fromTop="9" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="409" fromTop="13" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="409" fromTop="21" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="285" fromTop="11" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="541" fromTop="22" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="927" fromTop="35" />
+      <File id="6C22C32C-1840-4466-9458-A82D3B21F2E7/f:SubMultyPolynomials.cs" caret="2090" fromTop="13" />
+      <File id="63B2812C-FB5D-4CCD-BB10-F41E9D0230CE/f:SolveTasks.cs" caret="531" fromTop="21" />
+      <File id="63B2812C-FB5D-4CCD-BB10-F41E9D0230CE/f:SolveTasks.cs" caret="948" fromTop="29" />
+      <File id="63B2812C-FB5D-4CCD-BB10-F41E9D0230CE/f:SolveTasks.cs" caret="1949" fromTop="16" />
+      <File id="63B2812C-FB5D-4CCD-BB10-F41E9D0230CE/f:SolveTasks.cs" caret="2906" fromTop="30" />
+      <File id="C8E94CDD-C90E-45BD-807B-051E0EF3DF79/f:IntegerSetMethods.cs" caret="0" fromTop="0" />
+      <File id="63B2812C-FB5D-4CCD-BB10-F41E9D0230CE/f:SolveTasks.cs" caret="2551" fromTop="21" />
+      <File id="C8E94CDD-C90E-45BD-807B-051E0EF3DF79/f:IntegerSetMethods.cs" caret="802" fromTop="35" />
+      <File id="C8E94CDD-C90E-45BD-807B-051E0EF3DF79/f:IntegerSetMethods.cs" caret="1287" fromTop="27" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="0" fromTop="0" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="561" fromTop="21" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="1056" fromTop="34" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="162" fromTop="7" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="301" fromTop="8" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="403" fromTop="13" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="636" fromTop="24" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="861" fromTop="17" />
+      <File id="94AF5172-D19E-44B8-935E-26634649AC69/f:GenericSetMethods.cs" caret="1677" fromTop="29" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

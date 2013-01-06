@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\15.GenericSetMethods\bin\Debug\15.GenericSetMethods.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\15.GenericSetMethods\bin\Debug\15.GenericSetMethods.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\15.GenericSetMethods\obj\x86\Debug\15.GenericSetMethods.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\9.Methods\15.GenericSetMethods\obj\x86\Debug\15.GenericSetMethods.pdb

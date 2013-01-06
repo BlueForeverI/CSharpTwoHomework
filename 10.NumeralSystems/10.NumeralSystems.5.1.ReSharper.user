@@ -1,0 +1,144 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="27" />
+      <Item value="int" priority="17" />
+      <Item value="cw" priority="19" />
+      <Item value="Convert`0" priority="17" />
+      <Item value="n" priority="3" />
+      <Item value="binary" priority="7" />
+      <Item value="string" priority="12" />
+      <Item value="hex" priority="1" />
+      <Item value="bin" priority="5" />
+      <Item value="if" priority="2" />
+      <Item value="s" priority="2" />
+      <Item value="d" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="num" priority="4" />
+      <Item value="short" priority="2" />
+      <Item value="ConsoleSpecialKey`0" priority="0" />
+      <Item value="float" priority="3" />
+      <Item value="Math`0" priority="0" />
+      <Item value="long" priority="1" />
+      <Item value="BitConverter`0" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="bits" priority="0" />
+      <Item value="exponent" priority="8" />
+      <Item value="else" priority="0" />
+      <Item value="mantissa" priority="7" />
+      <Item value="while" priority="0" />
+      <Item value="sign" priority="1" />
+      <Item value="ShowDecimalGetBits`0" priority="1" />
+      <Item value="Decimal`0" priority="0" />
+      <Item value="negative" priority="0" />
+      <Item value="b" priority="4" />
+      <Item value="sb" priority="4" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="new" priority="3" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="i" priority="4" />
+      <Item value="Byte`0" priority="0" />
+      <Item value="zeroes" priority="0" />
+      <Item value="char" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="11" />
+      <Item value="Write`0" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="14" />
+      <Item value="ToInt32`0" priority="4" />
+      <Item value="ToDecimal`0" priority="1" />
+      <Item value="ToInt64`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int16">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Single">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.BitConverter">
+      <Item value="DoubleToInt64Bits`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="GetBits`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Join`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="2" />
+      <Item value="Append`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="3" />
+      <Item value="Substring`0" priority="1" />
+      <Item value="Reverse`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="64D515E3-2B15-4A8A-B6C0-17B154DB0144/f:DecimalToBinary.cs" caret="387" fromTop="13" />
+      <File id="0E8D05BD-7CDE-4AA3-95C9-37E797F5FA04/f:BinaryToDecimal.cs" caret="389" fromTop="13" />
+      <File id="5276EB7A-DA08-4A4A-B1E3-63F0119C3123/f:DecimalToHex.cs" caret="396" fromTop="13" />
+      <File id="B1E60F12-A2E2-4983-B5AA-5631FA777B77/f:HexToDecimal.cs" caret="419" fromTop="16" />
+      <File id="2ED3BCF2-DB5E-48E3-B5FE-EAF39D84BF44/f:HexToBinary.cs" caret="439" fromTop="17" />
+      <File id="22E089F5-DE4A-4863-8ECF-276750555049/f:BinaryToHex.cs" caret="432" fromTop="14" />
+      <File id="94ABFCF6-4935-4746-AF21-5E792A3814DC/f:AnyToAny.cs" caret="562" fromTop="21" />
+      <File id="BA9AA64D-B458-4978-A39F-44995697139F/f:ShortToBinary.cs" caret="427" fromTop="14" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="666" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="64D515E3-2B15-4A8A-B6C0-17B154DB0144/f:DecimalToBinary.cs" caret="385" fromTop="13" />
+      <File id="0E8D05BD-7CDE-4AA3-95C9-37E797F5FA04/f:BinaryToDecimal.cs" caret="0" fromTop="0" />
+      <File id="0E8D05BD-7CDE-4AA3-95C9-37E797F5FA04/f:BinaryToDecimal.cs" caret="394" fromTop="13" />
+      <File id="5276EB7A-DA08-4A4A-B1E3-63F0119C3123/f:DecimalToHex.cs" caret="394" fromTop="13" />
+      <File id="B1E60F12-A2E2-4983-B5AA-5631FA777B77/f:HexToDecimal.cs" caret="0" fromTop="0" />
+      <File id="B1E60F12-A2E2-4983-B5AA-5631FA777B77/f:HexToDecimal.cs" caret="395" fromTop="13" />
+      <File id="2ED3BCF2-DB5E-48E3-B5FE-EAF39D84BF44/f:HexToBinary.cs" caret="0" fromTop="0" />
+      <File id="2ED3BCF2-DB5E-48E3-B5FE-EAF39D84BF44/f:HexToBinary.cs" caret="413" fromTop="13" />
+      <File id="22E089F5-DE4A-4863-8ECF-276750555049/f:BinaryToHex.cs" caret="0" fromTop="0" />
+      <File id="22E089F5-DE4A-4863-8ECF-276750555049/f:BinaryToHex.cs" caret="433" fromTop="14" />
+      <File id="94ABFCF6-4935-4746-AF21-5E792A3814DC/f:AnyToAny.cs" caret="761" fromTop="26" />
+      <File id="BA9AA64D-B458-4978-A39F-44995697139F/f:ShortToBinary.cs" caret="0" fromTop="0" />
+      <File id="BA9AA64D-B458-4978-A39F-44995697139F/f:ShortToBinary.cs" caret="433" fromTop="14" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="153" fromTop="2" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="1298" fromTop="12" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="328" fromTop="13" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="328" fromTop="33" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="328" fromTop="21" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="328" fromTop="30" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="380" fromTop="14" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="911" fromTop="24" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="911" fromTop="29" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="1030" fromTop="18" />
+      <File id="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84/f:FloatToBinary.cs" caret="633" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6.1\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

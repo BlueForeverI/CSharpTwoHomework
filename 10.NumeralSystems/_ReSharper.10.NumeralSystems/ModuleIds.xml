@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="64D515E3-2B15-4A8A-B6C0-17B154DB0144" ModuleId="1.DecimalToBinary" />
+  <Module PersistentId="0E8D05BD-7CDE-4AA3-95C9-37E797F5FA04" ModuleId="2.BinaryToDecimal" />
+  <Module PersistentId="5276EB7A-DA08-4A4A-B1E3-63F0119C3123" ModuleId="3.DecimalToHex" />
+  <Module PersistentId="B1E60F12-A2E2-4983-B5AA-5631FA777B77" ModuleId="4.HexToDecimal" />
+  <Module PersistentId="2ED3BCF2-DB5E-48E3-B5FE-EAF39D84BF44" ModuleId="5.HexToBinary" />
+  <Module PersistentId="22E089F5-DE4A-4863-8ECF-276750555049" ModuleId="6.BinaryToHex" />
+  <Module PersistentId="94ABFCF6-4935-4746-AF21-5E792A3814DC" ModuleId="7.AnyToAny" />
+  <Module PersistentId="BA9AA64D-B458-4978-A39F-44995697139F" ModuleId="8.ShortToBinary" />
+  <Module PersistentId="E6785B8B-772D-4CC4-8E4E-6DFF105BAA84" ModuleId="9.FloatToBinary" />
+</Modules>

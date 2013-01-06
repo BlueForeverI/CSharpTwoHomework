@@ -1,0 +1,4 @@
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\6.BinaryToHex\bin\Debug\6.BinaryToHex.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\6.BinaryToHex\bin\Debug\6.BinaryToHex.pdb
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\6.BinaryToHex\obj\x86\Debug\6.BinaryToHex.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\6.BinaryToHex\obj\x86\Debug\6.BinaryToHex.pdb

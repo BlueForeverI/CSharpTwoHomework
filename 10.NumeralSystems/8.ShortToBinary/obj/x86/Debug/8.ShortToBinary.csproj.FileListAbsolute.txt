@@ -1,0 +1,4 @@
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\8.ShortToBinary\bin\Debug\8.ShortToBinary.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\8.ShortToBinary\bin\Debug\8.ShortToBinary.pdb
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\8.ShortToBinary\obj\x86\Debug\8.ShortToBinary.exe
+D:\Documentation\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\10.NumeralSystems\8.ShortToBinary\obj\x86\Debug\8.ShortToBinary.pdb

@@ -1,0 +1,11 @@
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\7.CalculateExpression\bin\Debug\7.CalculateExpression.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\7.CalculateExpression\bin\Debug\7.CalculateExpression.pdb
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\7.CalculateExpression\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\7.CalculateExpression\obj\x86\Debug\7.CalculateExpression.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\7.CalculateExpression\obj\x86\Debug\7.CalculateExpression.pdb
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\7.CalculateExpression\obj\x86\Debug\7.CalculateExpression.exe
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\7.CalculateExpression\obj\x86\Debug\7.CalculateExpression.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\7.CalculateExpression\obj\x86\Debug\7.CalculateExpression.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\7.CalculateExpression\obj\x86\Debug\7.CalculateExpression.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\7.CalculateExpression\bin\Debug\7.CalculateExpression.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\7.CalculateExpression\bin\Debug\7.CalculateExpression.pdb

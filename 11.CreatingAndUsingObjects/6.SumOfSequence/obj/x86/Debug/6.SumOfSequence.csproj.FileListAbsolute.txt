@@ -1,0 +1,9 @@
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\6.SumOfSequence\bin\Debug\6.SumOfSequence.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\6.SumOfSequence\bin\Debug\6.SumOfSequence.pdb
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\6.SumOfSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\6.SumOfSequence\obj\x86\Debug\6.SumOfSequence.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\6.SumOfSequence\obj\x86\Debug\6.SumOfSequence.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\6.SumOfSequence\bin\Debug\6.SumOfSequence.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\6.SumOfSequence\bin\Debug\6.SumOfSequence.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\6.SumOfSequence\obj\x86\Debug\6.SumOfSequence.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\6.SumOfSequence\obj\x86\Debug\6.SumOfSequence.pdb

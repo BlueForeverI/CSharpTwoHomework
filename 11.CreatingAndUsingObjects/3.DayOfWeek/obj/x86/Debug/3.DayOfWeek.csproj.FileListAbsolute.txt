@@ -1,0 +1,9 @@
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\3.DayOfWeek\bin\Debug\3.DayOfWeek.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\3.DayOfWeek\bin\Debug\3.DayOfWeek.pdb
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\3.DayOfWeek\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\3.DayOfWeek\obj\x86\Debug\3.DayOfWeek.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\3.DayOfWeek\obj\x86\Debug\3.DayOfWeek.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\3.DayOfWeek\bin\Debug\3.DayOfWeek.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\3.DayOfWeek\bin\Debug\3.DayOfWeek.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\3.DayOfWeek\obj\x86\Debug\3.DayOfWeek.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\3.DayOfWeek\obj\x86\Debug\3.DayOfWeek.pdb

@@ -1,0 +1,41 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="expression" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DCD05676-4E7D-4D0E-AD8E-F9B588629ED3/f:CalculateExpression.cs" caret="522" fromTop="18" />
+      <File id="9042FCA8-E0FC-4039-A199-EB1ED363F5C2/f:Program.cs" caret="434" fromTop="16" />
+      <File id="7BB29D26-ED6F-4770-A975-1A8A89AF766B/f:CalculateWorkdays.cs" caret="720" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DCD05676-4E7D-4D0E-AD8E-F9B588629ED3/f:CalculateExpression.cs" caret="323" fromTop="12" />
+      <File id="DCD05676-4E7D-4D0E-AD8E-F9B588629ED3/f:CalculateExpression.cs" caret="522" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

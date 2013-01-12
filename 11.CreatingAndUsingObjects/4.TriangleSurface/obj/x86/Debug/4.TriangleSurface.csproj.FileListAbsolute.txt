@@ -1,0 +1,9 @@
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.pdb
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\4.TriangleSurface\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\4.TriangleSurface\obj\x86\Debug\4.TriangleSurface.exe
+D:\Documentation\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\6.CreatingAndUsingObjects\4.TriangleSurface\obj\x86\Debug\4.TriangleSurface.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\4.TriangleSurface\obj\x86\Debug\4.TriangleSurface.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\11.CreatingAndUsingObjects\4.TriangleSurface\obj\x86\Debug\4.TriangleSurface.pdb

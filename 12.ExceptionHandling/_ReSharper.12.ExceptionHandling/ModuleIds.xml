@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="D72AE94C-AFBC-4439-9CD9-27495923D5DA" ModuleId="1.PrintSquareRoot" />
+  <Module PersistentId="D5097067-6043-4FB8-9C16-A3E487D03900" ModuleId="2.ReadNumberMethod" />
+  <Module PersistentId="4E5C59CD-A501-45B2-A5B5-AF964C12BD43" ModuleId="3.ReadFile" />
+  <Module PersistentId="14218FD4-A45A-423B-8D62-37A5ABCF2821" ModuleId="4.DownloadFile" />
+</Modules>

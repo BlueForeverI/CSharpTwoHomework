@@ -1,0 +1,132 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="try" priority="3" />
+      <Item value="Console`0" priority="5" />
+      <Item value="int" priority="8" />
+      <Item value="cw" priority="19" />
+      <Item value="Math`0" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="finally" priority="1" />
+      <Item value="if" priority="3" />
+      <Item value="number" priority="4" />
+      <Item value="throw" priority="1" />
+      <Item value="new" priority="3" />
+      <Item value="Exception" priority="0" />
+      <Item value="ArgumentOutOfRangeException`0" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="start" priority="0" />
+      <Item value="end" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="isValid" priority="0" />
+      <Item value="thr" priority="0" />
+      <Item value="Exception`0" priority="2" />
+      <Item value="ArgumentOutOfRangeException" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="6" />
+      <Item value="ReadNumber`0" priority="2" />
+      <Item value="return" priority="0" />
+      <Item value="array" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="ParamArrayAttribute`0" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="ex" priority="2" />
+      <Item value="string" priority="3" />
+      <Item value="File`0" priority="0" />
+      <Item value="path" priority="0" />
+      <Item value="content" priority="0" />
+      <Item value="ArgumentException`0" priority="0" />
+      <Item value="catch" priority="10" />
+      <Item value="ArgumentNullException`0" priority="0" />
+      <Item value="PathTooLongException`0" priority="0" />
+      <Item value="DirectoryNotFoundException`0" priority="0" />
+      <Item value="IOException`0" priority="0" />
+      <Item value="UnauthorizedAccessException`0" priority="0" />
+      <Item value="FileNotFoundException`0" priority="0" />
+      <Item value="NotSupportedException`0" priority="1" />
+      <Item value="client" priority="3" />
+      <Item value="WebClient" priority="0" />
+      <Item value="url" priority="1" />
+      <Item value="Last`1" priority="0" />
+      <Item value="filename" priority="0" />
+      <Item value="WebException`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="2" />
+      <Item value="ReadLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Join`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadFile`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D72AE94C-AFBC-4439-9CD9-27495923D5DA/f:PrintSquareRoot.cs" caret="488" fromTop="19" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="1420" fromTop="17" />
+      <File id="4E5C59CD-A501-45B2-A5B5-AF964C12BD43/f:ReadFile.cs" caret="1927" fromTop="30" />
+      <File id="14218FD4-A45A-423B-8D62-37A5ABCF2821/f:DownloadFile.cs" caret="1028" fromTop="32" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D72AE94C-AFBC-4439-9CD9-27495923D5DA/f:PrintSquareRoot.cs" caret="0" fromTop="0" />
+      <File id="D72AE94C-AFBC-4439-9CD9-27495923D5DA/f:PrintSquareRoot.cs" caret="642" fromTop="17" />
+      <File id="D72AE94C-AFBC-4439-9CD9-27495923D5DA/f:PrintSquareRoot.cs" caret="774" fromTop="23" />
+      <File id="D72AE94C-AFBC-4439-9CD9-27495923D5DA/f:PrintSquareRoot.cs" caret="488" fromTop="19" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="0" fromTop="0" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="179" fromTop="9" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="717" fromTop="25" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="1420" fromTop="29" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="1420" fromTop="19" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="1420" fromTop="16" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="856" fromTop="9" />
+      <File id="D5097067-6043-4FB8-9C16-A3E487D03900/f:ReadNumberMethod.cs" caret="1420" fromTop="26" />
+      <File id="4E5C59CD-A501-45B2-A5B5-AF964C12BD43/f:ReadFile.cs" caret="0" fromTop="0" />
+      <File id="4E5C59CD-A501-45B2-A5B5-AF964C12BD43/f:ReadFile.cs" caret="715" fromTop="19" />
+      <File id="4E5C59CD-A501-45B2-A5B5-AF964C12BD43/f:ReadFile.cs" caret="625" fromTop="21" />
+      <File id="4E5C59CD-A501-45B2-A5B5-AF964C12BD43/f:ReadFile.cs" caret="1213" fromTop="13" />
+      <File id="4E5C59CD-A501-45B2-A5B5-AF964C12BD43/f:ReadFile.cs" caret="1927" fromTop="30" />
+      <File id="14218FD4-A45A-423B-8D62-37A5ABCF2821/f:DownloadFile.cs" caret="0" fromTop="0" />
+      <File id="14218FD4-A45A-423B-8D62-37A5ABCF2821/f:DownloadFile.cs" caret="1099" fromTop="26" />
+      <File id="14218FD4-A45A-423B-8D62-37A5ABCF2821/f:DownloadFile.cs" caret="1011" fromTop="30" />
+      <File id="14218FD4-A45A-423B-8D62-37A5ABCF2821/f:DownloadFile.cs" caret="323" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

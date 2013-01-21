@@ -1,0 +1,15 @@
+<Modules>
+  <Module PersistentId="4E11015B-44A0-437C-8CF4-8D06A9FA9237" ModuleId="1.PrintOddLines" />
+  <Module PersistentId="82DF899D-13AE-4867-926D-FEFFBAF1F13A" ModuleId="2.ConcatFiles" />
+  <Module PersistentId="6346983B-94FA-4C58-A2D3-FBD91973CC78" ModuleId="3.AddLineNumbers" />
+  <Module PersistentId="4C8F9252-367F-49C7-AFFB-F1A79E2105D5" ModuleId="4.CompareFiles" />
+  <Module PersistentId="1BF8F8B6-B7C8-4D86-94D5-F69CA65BE75B" ModuleId="5.ReadMatrix" />
+  <Module PersistentId="835C0544-4C4F-422C-A77F-7B643686A4B3" ModuleId="6.SortStrings" />
+  <Module PersistentId="A345D283-E7D5-4B71-80FB-013EB6F3ECA8" ModuleId="7.ReplaceSubstrings" />
+  <Module PersistentId="C71531C0-4098-4FF6-A8A3-40FD0F688129" ModuleId="8.ReplaceWords" />
+  <Module PersistentId="3DD5AE39-D1DC-40A5-962C-3E74D84D09F1" ModuleId="9.DeleteOddLines" />
+  <Module PersistentId="DA3E4061-D8BF-4A9B-8D07-B69014708F76" ModuleId="10.ExtractFromXml" />
+  <Module PersistentId="34456458-F84D-4DCD-80EE-026DB38D0A0F" ModuleId="11.DeleteWordsWithPrefix" />
+  <Module PersistentId="877B3B55-42C0-462A-8EA0-A312FA8EEE14" ModuleId="12.RemoveListedWords" />
+  <Module PersistentId="2C408376-4B8D-4DA0-B960-732C58492DB2" ModuleId="13.WordCount" />
+</Modules>

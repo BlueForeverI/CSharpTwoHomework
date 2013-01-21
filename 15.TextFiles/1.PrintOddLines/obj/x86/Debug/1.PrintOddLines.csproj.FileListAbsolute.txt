@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\1.PrintOddLines\bin\Debug\1.PrintOddLines.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\1.PrintOddLines\bin\Debug\1.PrintOddLines.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\1.PrintOddLines\obj\x86\Debug\1.PrintOddLines.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\1.PrintOddLines\obj\x86\Debug\1.PrintOddLines.pdb

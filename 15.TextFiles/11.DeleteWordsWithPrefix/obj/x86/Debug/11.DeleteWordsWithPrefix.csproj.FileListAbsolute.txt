@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\11.DeleteWordsWithPrefix\bin\Debug\11.DeleteWordsWithPrefix.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\11.DeleteWordsWithPrefix\bin\Debug\11.DeleteWordsWithPrefix.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\11.DeleteWordsWithPrefix\obj\x86\Debug\11.DeleteWordsWithPrefix.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\11.DeleteWordsWithPrefix\obj\x86\Debug\11.DeleteWordsWithPrefix.pdb

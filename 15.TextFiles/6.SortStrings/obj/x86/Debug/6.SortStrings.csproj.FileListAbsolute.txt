@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\6.SortStrings\bin\Debug\6.SortStrings.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\6.SortStrings\bin\Debug\6.SortStrings.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\6.SortStrings\obj\x86\Debug\6.SortStrings.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\6.SortStrings\obj\x86\Debug\6.SortStrings.pdb

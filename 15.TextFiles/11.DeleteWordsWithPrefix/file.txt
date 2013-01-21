@@ -1,0 +1,5 @@
+﻿This is a test file.
+The testing was started.
+The testing was finished.
+We have tested some elements.
+The test has produced some results.

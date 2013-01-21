@@ -1,0 +1,240 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="6" />
+      <Item value="System" priority="3" />
+      <Item value="IO" priority="3" />
+      <Item value="string" priority="39" />
+      <Item value="File`0" priority="23" />
+      <Item value="for" priority="9" />
+      <Item value="int" priority="22" />
+      <Item value="i" priority="27" />
+      <Item value="lines" priority="9" />
+      <Item value="Length" priority="3" />
+      <Item value="if" priority="6" />
+      <Item value="cw" priority="14" />
+      <Item value="firstContent" priority="0" />
+      <Item value="secondContent" priority="0" />
+      <Item value="FileStream`0" priority="2" />
+      <Item value="stream" priority="4" />
+      <Item value="new" priority="23" />
+      <Item value="FileStream" priority="1" />
+      <Item value="OpenOrCreate" priority="2" />
+      <Item value="StringWriter`0" priority="3" />
+      <Item value="StringWriter" priority="1" />
+      <Item value="StreamWriter`0" priority="1" />
+      <Item value="writer" priority="18" />
+      <Item value="StreamWriter" priority="2" />
+      <Item value="firstLines" priority="1" />
+      <Item value="secondLines" priority="0" />
+      <Item value="sameCount" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="differentCount" priority="1" />
+      <Item value="size" priority="5" />
+      <Item value="Array`0" priority="1" />
+      <Item value="numbers" priority="1" />
+      <Item value="stringMatrix" priority="0" />
+      <Item value="matrix" priority="1" />
+      <Item value="maxSum" priority="5" />
+      <Item value="sum" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="sorted" priority="0" />
+      <Item value="foreach" priority="4" />
+      <Item value="StreamReader`0" priority="0" />
+      <Item value="reader" priority="3" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="fileStream" priority="23" />
+      <Item value="ReadWrite" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="line" priority="14" />
+      <Item value="Begin" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="count" priority="8" />
+      <Item value="newLine" priority="0" />
+      <Item value="Regex`0" priority="0" />
+      <Item value="filePath" priority="5" />
+      <Item value="content" priority="6" />
+      <Item value="FileStyleUriParser`0" priority="1" />
+      <Item value="StringBuilder`0" priority="1" />
+      <Item value="StringBuilder" priority="1" />
+      <Item value="sb" priority="4" />
+      <Item value="newContent" priority="4" />
+      <Item value="fileName" priority="3" />
+      <Item value="in" priority="2" />
+      <Item value="words" priority="0" />
+      <Item value="word" priority="3" />
+      <Item value="catch" priority="1" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="ex" priority="2" />
+      <Item value="namespace" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="RemoveEmptyEntries" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="Dictionary&lt;string,int&gt;" priority="0" />
+      <Item value="occurences" priority="2" />
+      <Item value="Contains`1" priority="0" />
+      <Item value="wordList" priority="0" />
+      <Item value="keyValuePair" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllLines`0" priority="4" />
+      <Item value="ReadAllText`0" priority="7" />
+      <Item value="WriteAllText`0" priority="7" />
+      <Item value="ReadLines`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="1" />
+      <Item value="WriteLine`0" priority="4" />
+      <Item value="Flush`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="1" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Copy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="1" />
+      <Item value="Replace`0" priority="13" />
+      <Item value="Length" priority="10" />
+      <Item value="CompareTo`0" priority="0" />
+      <Item value="ToLower`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Sort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Position" priority="12" />
+      <Item value="Flush`0" priority="3" />
+      <Item value="Seek`0" priority="1" />
+      <Item value="Length" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="OpenOrCreate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.SeekOrigin">
+      <Item value="Current" priority="0" />
+      <Item value="Begin" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="IsNullOrWhiteSpace`0" priority="1" />
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="Replace`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+      <Item value="AppendLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="GetType`0" priority="0" />
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="2" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4E11015B-44A0-437C-8CF4-8D06A9FA9237/f:input.txt" caret="60" fromTop="4" />
+      <File id="82DF899D-13AE-4867-926D-FEFFBAF1F13A/f:file1.txt" caret="57" fromTop="1" />
+      <File id="82DF899D-13AE-4867-926D-FEFFBAF1F13A/f:file2.txt" caret="33" fromTop="0" />
+      <File id="4E11015B-44A0-437C-8CF4-8D06A9FA9237/f:PrintOddLines.cs" caret="506" fromTop="20" />
+      <File id="82DF899D-13AE-4867-926D-FEFFBAF1F13A/f:ConcatFiles.cs" caret="535" fromTop="16" />
+      <File id="6346983B-94FA-4C58-A2D3-FBD91973CC78/f:input.txt" caret="43" fromTop="7" />
+      <File id="6346983B-94FA-4C58-A2D3-FBD91973CC78/f:AddLineNumbers.cs" caret="396" fromTop="13" />
+      <File id="4C8F9252-367F-49C7-AFFB-F1A79E2105D5/f:file1.txt" caret="28" fromTop="4" />
+      <File id="4C8F9252-367F-49C7-AFFB-F1A79E2105D5/f:file2.txt" caret="31" fromTop="4" />
+      <File id="4C8F9252-367F-49C7-AFFB-F1A79E2105D5/f:CompareFiles.cs" caret="888" fromTop="30" />
+      <File id="1BF8F8B6-B7C8-4D86-94D5-F69CA65BE75B/f:input.txt" caret="37" fromTop="4" />
+      <File id="1BF8F8B6-B7C8-4D86-94D5-F69CA65BE75B/f:ReadMatrix.cs" caret="1394" fromTop="26" />
+      <File id="835C0544-4C4F-422C-A77F-7B643686A4B3/f:SortStrings.cs" caret="572" fromTop="18" />
+      <File id="A345D283-E7D5-4B71-80FB-013EB6F3ECA8/f:file.txt" caret="111" fromTop="3" />
+      <File id="C71531C0-4098-4FF6-A8A3-40FD0F688129/f:ReplaceWords.cs" caret="699" fromTop="7" />
+      <File id="C71531C0-4098-4FF6-A8A3-40FD0F688129/f:file.txt" caret="111" fromTop="3" />
+      <File id="A345D283-E7D5-4B71-80FB-013EB6F3ECA8/f:ReplaceSubstrings.cs" caret="245" fromTop="12" />
+      <File id="3DD5AE39-D1DC-40A5-962C-3E74D84D09F1/f:file.txt" caret="111" fromTop="3" />
+      <File id="3DD5AE39-D1DC-40A5-962C-3E74D84D09F1/f:DeleteOddLines.cs" caret="543" fromTop="20" />
+      <File id="DA3E4061-D8BF-4A9B-8D07-B69014708F76/f:file.xml" caret="218" fromTop="10" />
+      <File id="34456458-F84D-4DCD-80EE-026DB38D0A0F/f:DeleteWordsWithPrefix.cs" caret="586" fromTop="18" />
+      <File id="34456458-F84D-4DCD-80EE-026DB38D0A0F/f:file.txt" caret="141" fromTop="4" />
+      <File id="DA3E4061-D8BF-4A9B-8D07-B69014708F76/f:ExtractFromXml.cs" caret="564" fromTop="18" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:file.txt" caret="421" fromTop="3" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:wordList.txt" caret="32" fromTop="3" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:test.txt" caret="1108" fromTop="3" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:words.txt" caret="46" fromTop="5" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:result.txt" caret="0" fromTop="0" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:RemoveListedWords.cs" caret="926" fromTop="29" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:WordCount.cs" caret="164" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A345D283-E7D5-4B71-80FB-013EB6F3ECA8/f:ReplaceSubstrings.cs" caret="422" fromTop="5" />
+      <File id="A345D283-E7D5-4B71-80FB-013EB6F3ECA8/f:file.txt" caret="111" fromTop="3" />
+      <File id="C71531C0-4098-4FF6-A8A3-40FD0F688129/f:ReplaceWords.cs" caret="701" fromTop="7" />
+      <File id="C71531C0-4098-4FF6-A8A3-40FD0F688129/f:file.txt" caret="111" fromTop="3" />
+      <File id="3DD5AE39-D1DC-40A5-962C-3E74D84D09F1/f:DeleteOddLines.cs" caret="0" fromTop="0" />
+      <File id="3DD5AE39-D1DC-40A5-962C-3E74D84D09F1/f:DeleteOddLines.cs" caret="698" fromTop="25" />
+      <File id="3DD5AE39-D1DC-40A5-962C-3E74D84D09F1/f:DeleteOddLines.cs" caret="543" fromTop="20" />
+      <File id="3DD5AE39-D1DC-40A5-962C-3E74D84D09F1/f:file.txt" caret="111" fromTop="3" />
+      <File id="DA3E4061-D8BF-4A9B-8D07-B69014708F76/f:ExtractFromXml.cs" caret="0" fromTop="0" />
+      <File id="DA3E4061-D8BF-4A9B-8D07-B69014708F76/f:file.xml" caret="378" fromTop="11" />
+      <File id="DA3E4061-D8BF-4A9B-8D07-B69014708F76/f:file.xml" caret="218" fromTop="0" />
+      <File id="DA3E4061-D8BF-4A9B-8D07-B69014708F76/f:ExtractFromXml.cs" caret="564" fromTop="18" />
+      <File id="DA3E4061-D8BF-4A9B-8D07-B69014708F76/f:file.xml" caret="218" fromTop="10" />
+      <File id="34456458-F84D-4DCD-80EE-026DB38D0A0F/f:DeleteWordsWithPrefix.cs" caret="0" fromTop="0" />
+      <File id="34456458-F84D-4DCD-80EE-026DB38D0A0F/f:DeleteWordsWithPrefix.cs" caret="566" fromTop="18" />
+      <File id="34456458-F84D-4DCD-80EE-026DB38D0A0F/f:file.txt" caret="141" fromTop="4" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:RemoveListedWords.cs" caret="0" fromTop="0" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:wordList.txt" caret="32" fromTop="3" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:RemoveListedWords.cs" caret="877" fromTop="19" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:RemoveListedWords.cs" caret="354" fromTop="15" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:RemoveListedWords.cs" caret="966" fromTop="30" />
+      <File id="877B3B55-42C0-462A-8EA0-A312FA8EEE14/f:file.txt" caret="421" fromTop="3" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:WordCount.cs" caret="0" fromTop="0" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:test.txt" caret="1108" fromTop="3" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:words.txt" caret="46" fromTop="5" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:WordCount.cs" caret="1619" fromTop="20" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:result.txt" caret="0" fromTop="0" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:WordCount.cs" caret="1619" fromTop="14" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:WordCount.cs" caret="248" fromTop="13" />
+      <File id="2C408376-4B8D-4DA0-B960-732C58492DB2/f:WordCount.cs" caret="1668" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

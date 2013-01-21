@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\2.ConcatFiles\bin\Debug\2.ConcatFiles.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\2.ConcatFiles\bin\Debug\2.ConcatFiles.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\2.ConcatFiles\obj\x86\Debug\2.ConcatFiles.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\2.ConcatFiles\obj\x86\Debug\2.ConcatFiles.pdb

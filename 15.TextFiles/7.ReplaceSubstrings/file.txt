@@ -1,0 +1,4 @@
+The starting line
+one line after the start
+three lines since we started.
+We've gone far away from the start.

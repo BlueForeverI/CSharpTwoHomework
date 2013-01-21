@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\3.AddLineNumbers\bin\Debug\3.AddLineNumbers.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\3.AddLineNumbers\bin\Debug\3.AddLineNumbers.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\3.AddLineNumbers\obj\x86\Debug\3.AddLineNumbers.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\15.TextFiles\3.AddLineNumbers\obj\x86\Debug\3.AddLineNumbers.pdb

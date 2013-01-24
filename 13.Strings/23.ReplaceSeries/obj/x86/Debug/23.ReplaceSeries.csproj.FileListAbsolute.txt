@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\23.ReplaceSeries\bin\Debug\23.ReplaceSeries.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\23.ReplaceSeries\bin\Debug\23.ReplaceSeries.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\23.ReplaceSeries\obj\x86\Debug\23.ReplaceSeries.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\23.ReplaceSeries\obj\x86\Debug\23.ReplaceSeries.pdb

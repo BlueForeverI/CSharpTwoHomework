@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\4.CountSubstring\bin\Debug\4.CountSubstring.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\4.CountSubstring\bin\Debug\4.CountSubstring.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\4.CountSubstring\obj\x86\Debug\4.CountSubstring.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\4.CountSubstring\obj\x86\Debug\4.CountSubstring.pdb

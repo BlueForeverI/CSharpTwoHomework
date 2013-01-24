@@ -1,0 +1,26 @@
+<Modules>
+  <Module PersistentId="640F4B31-B93E-48D0-8009-309A7C4D62D5" ModuleId="2.ReverseString" />
+  <Module PersistentId="FD598C1B-7524-4CFF-8643-529848061EC1" ModuleId="3.CheckBrackets" />
+  <Module PersistentId="B5A3AF38-055B-4381-863D-917C4B758B39" ModuleId="4.CountSubstring" />
+  <Module PersistentId="9832B1BA-B2B5-438B-B28E-0B78CCCCE02D" ModuleId="5.ToUpperCase" />
+  <Module PersistentId="87DE463E-0CFB-4FA0-A064-0B5AC3C270FC" ModuleId="6.StringOf20" />
+  <Module PersistentId="6BD25360-660F-4D6A-956E-1F4E2E50DA7C" ModuleId="7.EncodeDecodeString" />
+  <Module PersistentId="2CAEF1A0-6BDE-4B88-93DE-A658D4616E40" ModuleId="8.ExtractSentences" />
+  <Module PersistentId="C4B93B4E-AD0F-43EF-8CF8-646B998DCEEC" ModuleId="9.ReplaceForbiddenWords" />
+  <Module PersistentId="4F1B28B0-2964-4528-B1B6-240EEEDEEFA2" ModuleId="10.ConvertToUnicode" />
+  <Module PersistentId="53C6637F-3447-4B30-B496-F152F172FD7D" ModuleId="11.FormatNumber" />
+  <Module PersistentId="52838306-4C66-4009-85DD-3D91C8B7D5B9" ModuleId="12.ParseUrl" />
+  <Module PersistentId="1A5144A4-21C4-400C-9BFE-0218A2E0C871" ModuleId="13.ReverseWords" />
+  <Module PersistentId="A8DDBC38-455F-40EF-A0DF-72FF32816E6F" ModuleId="14.Dictionary" />
+  <Module PersistentId="C41BF229-B83A-4F29-8722-4BBC5C4B49D3" ModuleId="15.ReplaceHtmlAnchor" />
+  <Module PersistentId="862FE256-EA34-49A0-A60A-59C14784C2ED" ModuleId="16.DaysBetweenDates" />
+  <Module PersistentId="33BA279B-143B-40D0-BBCF-2BC7AC6AEDAC" ModuleId="17.ReadDate" />
+  <Module PersistentId="5BFED0F3-9186-40EC-ABFC-12C139AB822C" ModuleId="18.ExtractEmails" />
+  <Module PersistentId="7476D7EF-076F-4B24-AE6D-E2E9FC3607ED" ModuleId="19.ExtractDates" />
+  <Module PersistentId="3B17B610-8FAC-45DD-992F-E1EFCB8D0C0E" ModuleId="20.ExtractPalindromes" />
+  <Module PersistentId="90D38D15-7F45-4AF1-9824-C996EF690397" ModuleId="21.DifferentLetters" />
+  <Module PersistentId="0C3785FC-6C47-4EAB-BCF1-A6AABE1DE8BE" ModuleId="22.DifferentWords" />
+  <Module PersistentId="A1CE10AC-C8EA-45D1-9C62-59B1FCEA3D7E" ModuleId="23.ReplaceSeries" />
+  <Module PersistentId="FCE80EEC-8CD2-4424-916E-F4636E3E63F0" ModuleId="24.SortWords" />
+  <Module PersistentId="92116DEC-D501-4A4F-BFB7-FC53391693C0" ModuleId="25.ExtractFromHtml" />
+</Modules>

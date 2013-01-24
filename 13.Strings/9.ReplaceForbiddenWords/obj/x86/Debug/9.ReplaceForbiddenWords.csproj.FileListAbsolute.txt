@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\9.ReplaceForbiddenWords\bin\Debug\9.ReplaceForbiddenWords.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\9.ReplaceForbiddenWords\bin\Debug\9.ReplaceForbiddenWords.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\9.ReplaceForbiddenWords\obj\x86\Debug\9.ReplaceForbiddenWords.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\9.ReplaceForbiddenWords\obj\x86\Debug\9.ReplaceForbiddenWords.pdb

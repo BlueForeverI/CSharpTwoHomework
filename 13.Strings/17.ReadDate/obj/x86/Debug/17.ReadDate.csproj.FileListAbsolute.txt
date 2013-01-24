@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\17.ReadDate\bin\Debug\17.ReadDate.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\17.ReadDate\bin\Debug\17.ReadDate.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\17.ReadDate\obj\x86\Debug\17.ReadDate.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\17.ReadDate\obj\x86\Debug\17.ReadDate.pdb

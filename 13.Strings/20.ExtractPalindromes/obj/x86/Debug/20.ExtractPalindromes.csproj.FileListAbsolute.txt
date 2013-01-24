@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\20.ExtractPalindromes\obj\x86\Debug\20.ExtractPalindromes.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\20.ExtractPalindromes\obj\x86\Debug\20.ExtractPalindromes.pdb

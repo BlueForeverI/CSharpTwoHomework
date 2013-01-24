@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\11.FormatNumber\obj\x86\Debug\11.FormatNumber.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\11.FormatNumber\obj\x86\Debug\11.FormatNumber.pdb

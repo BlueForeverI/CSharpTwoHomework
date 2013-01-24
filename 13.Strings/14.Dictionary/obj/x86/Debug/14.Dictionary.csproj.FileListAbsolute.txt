@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\14.Dictionary\bin\Debug\14.Dictionary.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\14.Dictionary\bin\Debug\14.Dictionary.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\14.Dictionary\obj\x86\Debug\14.Dictionary.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\14.Dictionary\obj\x86\Debug\14.Dictionary.pdb

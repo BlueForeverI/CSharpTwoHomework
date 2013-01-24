@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\3.CheckBrackets\bin\Debug\3.CheckBrackets.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\3.CheckBrackets\bin\Debug\3.CheckBrackets.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\3.CheckBrackets\obj\x86\Debug\3.CheckBrackets.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\3.CheckBrackets\obj\x86\Debug\3.CheckBrackets.pdb

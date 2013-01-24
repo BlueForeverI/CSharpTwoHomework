@@ -1,0 +1,297 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="23" />
+      <Item value="cw" priority="55" />
+      <Item value="string" priority="61" />
+      <Item value="char" priority="11" />
+      <Item value="expression" priority="1" />
+      <Item value="c" priority="7" />
+      <Item value="brackets" priority="7" />
+      <Item value="if" priority="22" />
+      <Item value="Count`1" priority="1" />
+      <Item value="bool" priority="2" />
+      <Item value="true" priority="1" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="isValid" priority="3" />
+      <Item value="false" priority="4" />
+      <Item value="Stack" priority="0" />
+      <Item value="new" priority="27" />
+      <Item value="Stack&lt;char&gt;" priority="0" />
+      <Item value="foreach" priority="13" />
+      <Item value="in" priority="6" />
+      <Item value="else" priority="4" />
+      <Item value="text" priority="27" />
+      <Item value="int" priority="19" />
+      <Item value="for" priority="5" />
+      <Item value="i" priority="20" />
+      <Item value="target" priority="4" />
+      <Item value="count" priority="3" />
+      <Item value="ToArray`1" priority="0" />
+      <Item value="word" priority="12" />
+      <Item value="Regex`0" priority="6" />
+      <Item value="replaced" priority="10" />
+      <Item value="RegexRunner`0" priority="1" />
+      <Item value="m" priority="0" />
+      <Item value="input" priority="23" />
+      <Item value="return" priority="4" />
+      <Item value="suffix" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="key" priority="5" />
+      <Item value="static" priority="1" />
+      <Item value="StringBuilder`0" priority="4" />
+      <Item value="StringBuilder" priority="4" />
+      <Item value="keyIndex" priority="4" />
+      <Item value="sb" priority="6" />
+      <Item value="EncodeString`0" priority="1" />
+      <Item value="EncodeDecode`0" priority="1" />
+      <Item value="encoded" priority="1" />
+      <Item value="decoded" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="sentences" priority="0" />
+      <Item value="sentence" priority="1" />
+      <Item value="words" priority="9" />
+      <Item value="Contains`1" priority="2" />
+      <Item value="result" priority="1" />
+      <Item value="String`0" priority="0" />
+      <Item value="forbidden" priority="1" />
+      <Item value="Convert`0" priority="1" />
+      <Item value="character" priority="2" />
+      <Item value="hex" priority="6" />
+      <Item value="unicode" priority="2" />
+      <Item value="args" priority="0" />
+      <Item value="num" priority="4" />
+      <Item value="url" priority="0" />
+      <Item value="symbols" priority="0" />
+      <Item value="RemoveEmptyEntries" priority="2" />
+      <Item value="KeyValuePair" priority="0" />
+      <Item value="List&lt;KeyValuePair&lt;char,int&gt;&gt;" priority="0" />
+      <Item value="index" priority="3" />
+      <Item value="symbolPositions" priority="3" />
+      <Item value="KeyValuePair&lt;char,int&gt;" priority="0" />
+      <Item value="trimmed" priority="2" />
+      <Item value="wordIndex" priority="2" />
+      <Item value="Reverse`1" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="dictionary" priority="1" />
+      <Item value="line" priority="1" />
+      <Item value="explanation" priority="2" />
+      <Item value="Queryable`0" priority="0" />
+      <Item value="html" priority="4" />
+      <Item value="DateTime`0" priority="7" />
+      <Item value="firstDate" priority="7" />
+      <Item value="secondDate" priority="5" />
+      <Item value="days" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="date" priority="5" />
+      <Item value="System" priority="1" />
+      <Item value="Globalization" priority="0" />
+      <Item value="CultureInfo`0" priority="1" />
+      <Item value="CultureInfo" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="match" priority="2" />
+      <Item value="DateTimeFormatInfo`0" priority="0" />
+      <Item value="s" priority="4" />
+      <Item value="IsPalindrome`0" priority="1" />
+      <Item value="StringSplitOptions`0" priority="0" />
+      <Item value="Dictionary&lt;char,int&gt;" priority="0" />
+      <Item value="letter" priority="4" />
+      <Item value="occurences" priority="5" />
+      <Item value="occurence" priority="3" />
+      <Item value="Dictionary&lt;string,int&gt;" priority="0" />
+      <Item value="InvalidTimeZoneException`0" priority="0" />
+      <Item value="length" priority="3" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="sorted" priority="0" />
+      <Item value="title" priority="2" />
+      <Item value="content" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="10" />
+      <Item value="ReadLine`0" priority="10" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Reverse`1" priority="0" />
+      <Item value="TakeWhile`1" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Length" priority="17" />
+      <Item value="Substring`0" priority="1" />
+      <Item value="Split`0" priority="7" />
+      <Item value="ToLower`0" priority="8" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="ToUpper`0" priority="6" />
+      <Item value="Replace`0" priority="7" />
+      <Item value="Trim`0" priority="3" />
+      <Item value="Remove`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Join`0" priority="3" />
+      <Item value="Format`0" priority="2" />
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Stack`1">
+      <Item value="Push`0" priority="0" />
+      <Item value="Peek`0" priority="0" />
+      <Item value="Pop`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="Match`0" priority="2" />
+      <Item value="Replace`0" priority="3" />
+      <Item value="Matches`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Value" priority="0" />
+      <Item value="Result`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ConsoleKeyInfo">
+      <Item value="Key" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="7" />
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Any`1" priority="0" />
+      <Item value="Sort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringSplitOptions">
+      <Item value="RemoveEmptyEntries" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="2" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Parse`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Subtract`0" priority="2" />
+      <Item value="Year" priority="1" />
+      <Item value="Month" priority="0" />
+      <Item value="Day" priority="0" />
+      <Item value="AddHours`0" priority="0" />
+      <Item value="DayOfWeek" priority="1" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Days" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.CultureInfo">
+      <Item value="DefaultThreadCurrentCulture" priority="0" />
+      <Item value="CurrentCulture" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="CurrentCulture" priority="0" />
+      <Item value="CurrentUICulture" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="1" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="640F4B31-B93E-48D0-8009-309A7C4D62D5/f:ReverseString.cs" caret="354" fromTop="12" />
+      <File id="FD598C1B-7524-4CFF-8643-529848061EC1/f:CheckBrackets.cs" caret="262" fromTop="11" />
+      <File id="87DE463E-0CFB-4FA0-A064-0B5AC3C270FC/f:StringOf20.cs" caret="630" fromTop="21" />
+      <File id="6BD25360-660F-4D6A-956E-1F4E2E50DA7C/f:EncodeDecodeString.cs" caret="758" fromTop="30" />
+      <File id="9832B1BA-B2B5-438B-B28E-0B78CCCCE02D/f:ToUpperCase.cs" caret="595" fromTop="16" />
+      <File id="B5A3AF38-055B-4381-863D-917C4B758B39/f:CountSubstring.cs" caret="518" fromTop="16" />
+      <File id="2CAEF1A0-6BDE-4B88-93DE-A658D4616E40/f:ExtractSentences.cs" caret="836" fromTop="23" />
+      <File id="C4B93B4E-AD0F-43EF-8CF8-646B998DCEEC/f:ReplaceForbiddenWords.cs" caret="756" fromTop="23" />
+      <File id="4F1B28B0-2964-4528-B1B6-240EEEDEEFA2/f:ConvertToUnicode.cs" caret="495" fromTop="8" />
+      <File id="53C6637F-3447-4B30-B496-F152F172FD7D/f:FormatNumber.cs" caret="550" fromTop="17" />
+      <File id="52838306-4C66-4009-85DD-3D91C8B7D5B9/f:ParseUrl.cs" caret="633" fromTop="17" />
+      <File id="1A5144A4-21C4-400C-9BFE-0218A2E0C871/f:ReverseWords.cs" caret="501" fromTop="0" />
+      <File id="A8DDBC38-455F-40EF-A0DF-72FF32816E6F/f:Program.cs" caret="940" fromTop="16" />
+      <File id="C41BF229-B83A-4F29-8722-4BBC5C4B49D3/f:ReplaceHtmlAnchor.cs" caret="294" fromTop="11" />
+      <File id="862FE256-EA34-49A0-A60A-59C14784C2ED/f:DaysBetweenDates.cs" caret="550" fromTop="17" />
+      <File id="5BFED0F3-9186-40EC-ABFC-12C139AB822C/f:ExtractEmails.cs" caret="406" fromTop="14" />
+      <File id="33BA279B-143B-40D0-BBCF-2BC7AC6AEDAC/f:ReadDate.cs" caret="455" fromTop="16" />
+      <File id="7476D7EF-076F-4B24-AE6D-E2E9FC3607ED/f:ExtractDates.cs" caret="704" fromTop="20" />
+      <File id="90D38D15-7F45-4AF1-9824-C996EF690397/f:DifferentLetters.cs" caret="582" fromTop="19" />
+      <File id="3B17B610-8FAC-45DD-992F-E1EFCB8D0C0E/f:ExtractPalindromes.cs" caret="959" fromTop="16" />
+      <File id="0C3785FC-6C47-4EAB-BCF1-A6AABE1DE8BE/f:DifferentWords.cs" caret="1152" fromTop="28" />
+      <File id="A1CE10AC-C8EA-45D1-9C62-59B1FCEA3D7E/f:ReplaceSeries.cs" caret="666" fromTop="24" />
+      <File id="FCE80EEC-8CD2-4424-916E-F4636E3E63F0/f:SortWords.cs" caret="656" fromTop="19" />
+      <File id="92116DEC-D501-4A4F-BFB7-FC53391693C0/f:ExtractFromHtml.cs" caret="341" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="862FE256-EA34-49A0-A60A-59C14784C2ED/f:DaysBetweenDates.cs" caret="0" fromTop="0" />
+      <File id="862FE256-EA34-49A0-A60A-59C14784C2ED/f:DaysBetweenDates.cs" caret="875" fromTop="21" />
+      <File id="862FE256-EA34-49A0-A60A-59C14784C2ED/f:DaysBetweenDates.cs" caret="550" fromTop="17" />
+      <File id="33BA279B-143B-40D0-BBCF-2BC7AC6AEDAC/f:ReadDate.cs" caret="0" fromTop="0" />
+      <File id="33BA279B-143B-40D0-BBCF-2BC7AC6AEDAC/f:ReadDate.cs" caret="281" fromTop="11" />
+      <File id="33BA279B-143B-40D0-BBCF-2BC7AC6AEDAC/f:ReadDate.cs" caret="413" fromTop="14" />
+      <File id="33BA279B-143B-40D0-BBCF-2BC7AC6AEDAC/f:ReadDate.cs" caret="572" fromTop="18" />
+      <File id="5BFED0F3-9186-40EC-ABFC-12C139AB822C/f:ExtractEmails.cs" caret="0" fromTop="0" />
+      <File id="5BFED0F3-9186-40EC-ABFC-12C139AB822C/f:ExtractEmails.cs" caret="768" fromTop="21" />
+      <File id="5BFED0F3-9186-40EC-ABFC-12C139AB822C/f:ExtractEmails.cs" caret="454" fromTop="15" />
+      <File id="7476D7EF-076F-4B24-AE6D-E2E9FC3607ED/f:ExtractDates.cs" caret="0" fromTop="0" />
+      <File id="7476D7EF-076F-4B24-AE6D-E2E9FC3607ED/f:ExtractDates.cs" caret="463" fromTop="15" />
+      <File id="7476D7EF-076F-4B24-AE6D-E2E9FC3607ED/f:ExtractDates.cs" caret="704" fromTop="20" />
+      <File id="3B17B610-8FAC-45DD-992F-E1EFCB8D0C0E/f:ExtractPalindromes.cs" caret="0" fromTop="0" />
+      <File id="3B17B610-8FAC-45DD-992F-E1EFCB8D0C0E/f:ExtractPalindromes.cs" caret="545" fromTop="19" />
+      <File id="3B17B610-8FAC-45DD-992F-E1EFCB8D0C0E/f:ExtractPalindromes.cs" caret="296" fromTop="13" />
+      <File id="3B17B610-8FAC-45DD-992F-E1EFCB8D0C0E/f:ExtractPalindromes.cs" caret="1298" fromTop="22" />
+      <File id="3B17B610-8FAC-45DD-992F-E1EFCB8D0C0E/f:ExtractPalindromes.cs" caret="1146" fromTop="19" />
+      <File id="0C3785FC-6C47-4EAB-BCF1-A6AABE1DE8BE/f:DifferentWords.cs" caret="0" fromTop="0" />
+      <File id="0C3785FC-6C47-4EAB-BCF1-A6AABE1DE8BE/f:DifferentWords.cs" caret="1124" fromTop="35" />
+      <File id="A1CE10AC-C8EA-45D1-9C62-59B1FCEA3D7E/f:ReplaceSeries.cs" caret="0" fromTop="0" />
+      <File id="A1CE10AC-C8EA-45D1-9C62-59B1FCEA3D7E/f:ReplaceSeries.cs" caret="442" fromTop="16" />
+      <File id="A1CE10AC-C8EA-45D1-9C62-59B1FCEA3D7E/f:ReplaceSeries.cs" caret="666" fromTop="24" />
+      <File id="FCE80EEC-8CD2-4424-916E-F4636E3E63F0/f:SortWords.cs" caret="0" fromTop="0" />
+      <File id="FCE80EEC-8CD2-4424-916E-F4636E3E63F0/f:SortWords.cs" caret="642" fromTop="18" />
+      <File id="92116DEC-D501-4A4F-BFB7-FC53391693C0/f:ExtractFromHtml.cs" caret="0" fromTop="0" />
+      <File id="92116DEC-D501-4A4F-BFB7-FC53391693C0/f:ExtractFromHtml.cs" caret="716" fromTop="18" />
+      <File id="92116DEC-D501-4A4F-BFB7-FC53391693C0/f:ExtractFromHtml.cs" caret="720" fromTop="19" />
+      <File id="92116DEC-D501-4A4F-BFB7-FC53391693C0/f:ExtractFromHtml.cs" caret="1114" fromTop="26" />
+      <File id="92116DEC-D501-4A4F-BFB7-FC53391693C0/f:ExtractFromHtml.cs" caret="341" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

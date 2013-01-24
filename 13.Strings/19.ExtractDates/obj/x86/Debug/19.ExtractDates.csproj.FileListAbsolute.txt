@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\19.ExtractDates\obj\x86\Debug\19.ExtractDates.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\19.ExtractDates\obj\x86\Debug\19.ExtractDates.pdb

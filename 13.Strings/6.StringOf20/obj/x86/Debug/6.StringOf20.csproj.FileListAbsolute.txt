@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\6.StringOf20\bin\Debug\6.StringOf20.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\6.StringOf20\bin\Debug\6.StringOf20.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\6.StringOf20\obj\x86\Debug\6.StringOf20.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\6.StringOf20\obj\x86\Debug\6.StringOf20.pdb

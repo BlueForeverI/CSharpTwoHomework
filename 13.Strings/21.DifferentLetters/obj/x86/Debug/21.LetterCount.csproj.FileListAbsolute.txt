@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\21.LetterCount\bin\Debug\21.LetterCount.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\21.LetterCount\bin\Debug\21.LetterCount.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\21.LetterCount\obj\x86\Debug\21.LetterCount.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\21.LetterCount\obj\x86\Debug\21.LetterCount.pdb

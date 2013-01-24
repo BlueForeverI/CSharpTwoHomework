@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\13.ReverseWords\bin\Debug\13.ReverseWords.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\13.ReverseWords\bin\Debug\13.ReverseWords.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\13.ReverseWords\obj\x86\Debug\13.ReverseWords.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\13.ReverseWords\obj\x86\Debug\13.ReverseWords.pdb

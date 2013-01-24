@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\10.ConvertToUnicode\bin\Debug\10.ConvertToUnicode.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\10.ConvertToUnicode\bin\Debug\10.ConvertToUnicode.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\10.ConvertToUnicode\obj\x86\Debug\10.ConvertToUnicode.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\10.ConvertToUnicode\obj\x86\Debug\10.ConvertToUnicode.pdb

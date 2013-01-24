@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\2.ReverseString\bin\Debug\2.ReverseString.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\2.ReverseString\bin\Debug\2.ReverseString.pdb
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\2.ReverseString\obj\x86\Debug\2.ReverseString.exe
+E:\Documents\Telerik-Software-Academy\C# Programming - II\Homework\CSharpTwoHomework\13.Strings\2.ReverseString\obj\x86\Debug\2.ReverseString.pdb
